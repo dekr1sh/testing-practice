@@ -1,5 +1,5 @@
 function isAlphabet(char) {
-    return char.search(/[a-zA-Z]/) !== -f1 ? true: false;
+    return char.search(/[a-zA-Z]/) !== -1 ? true: false;
 }
 
 function getOffset(char) {
